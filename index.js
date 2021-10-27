@@ -4,15 +4,17 @@ let path = require('path')
 let fs = require('fs')
 let package = require('./package.json')
 const CFonts = require('cfonts')
-CFonts.say('Haruno Bot', {
+CFonts.say('Dora', {
   colors: ['#f2aa4c'],
-  font: 'block',
+  font: 'chrome',
   align: 'center',
+  gradient: ['red', 'magenta']
 })
-CFonts.say(`'${package.name}' Oleh @${package.author.name || package.author}`, {
+CFonts.say(`'Doraemond' welcome`, {
   colors: ['#f2aa4c'],
   font: 'console',
   align: 'center',
+  gradient: ['red', 'magenta']
 })
 
 var isRunning = false
