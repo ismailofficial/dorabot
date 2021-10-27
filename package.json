@@ -1,5 +1,5 @@
 {
-  "name": "harunobot",
+  "name": "Doraemond",
   "version": "2.0.1",
   "description": "WhatsApp Bot Ringan",
   "main": "index.js",
@@ -14,7 +14,7 @@
   "keywords": [
     "whatsapp-bot"
   ],
-  "author": "Fadli",
+  "author": "Dora",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/ariffb25/stikerinbot/issues"
