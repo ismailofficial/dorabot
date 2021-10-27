@@ -20,6 +20,11 @@ const defaultMenu = {
 │
 ├ Uptime: *%uptime (%muptime)*
 ├ Database: %rtotalreg dari %totalreg
+├
+├ Berusahalah untuk patah 
+├ semangat dan tetaplah 
+├ menjadi pecundang,
+├ hidup mu adalah kesia-siaan.㋛
 └────
 %readmore`.trimStart(),
   header: '┌─〔 %category 〕',
@@ -187,45 +192,45 @@ let handler = async (m, { conn, usedPrefix: _p, args, command }) => {
       return conn.relayWAMessage(conn.prepareMessageFromContent(m.chat, {
         "listMessage": {
           "title": `${ucapan()}, ${name}`.trim(),
-          "description": "© Haruno",
+          "description": "© Doraemond",
           "buttonText": "Klik Disini",
           "listType": "SINGLE_SELECT",
           "sections": [
             {
               "rows": [
                 {
-                  "title": `Semua Perintah`,
-                  "description": "",
+                  "title": `📜 ㋛ Semua Perintah`,
+                  "description": "Menampilkan semua perintah bot",
                   "rowId": ".? all"
                 }, {
-                  "title": "Game",
-                  "description": "",
+                  "title": "🎮 ㋛ game",
+                  "description": "All game",
                   "rowId": ".? game"
 
                 }, {
-                  "title": "XP",
-                  "description": "",
+                  "title": "💳 ㋛ XP",
+                  "description": "XP pemakain Bot",
                   "rowId": ".? xp"
 
                 }, {
-                  "title": "Stiker",
-                  "description": "",
+                  "title": "🖼 ㋛ Stiker",
+                  "description": "maker stiker",
                   "rowId": ".? stiker"
                 }, {
-                  "title": "Kerang Ajaib",
-                  "description": "",
+                  "title": "🐚 ㋛ Kerang Ajaib",
+                  "description": "Ask something question",
                   "rowId": ".? kerangajaib"
                 }, {
-                  "title": "Quotes",
-                  "description": "",
+                  "title": "📝 ㋛ Quotes",
+                  "description": "Kata-kata bijak",
                   "rowId": ".? quotes"
                 }, {
-                  "title": "Admin",
-                  "description": "",
+                  "title": "🕴 ㋛ Admin",
+                  "description": "Para elite tapi bukan mastah ㋛",
                   "rowId": ".? admin"
                 }, {
-                  "title": "Grup",
-                  "description": "",
+                  "title": "👥 ㋛ Grup",
+                  "description": "Using di Grup doang anjir",
                   "rowId": ".? grup"
                 }, {
                   "title": "Premium",
