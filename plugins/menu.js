@@ -233,64 +233,64 @@ let handler = async (m, { conn, usedPrefix: _p, args, command }) => {
                   "description": "Using di Grup doang anjir",
                   "rowId": ".? grup"
                 }, {
-                  "title": "Premium",
-                  "description": "",
+                  "title": "💎 ㋛ Premium",
+                  "description": "wow para elite ⚡",
                   "rowId": ".? premium"
                 }, {
-                  "title": "Internet",
-                  "description": "",
+                  "title": "📡 ㋛ Internet",
+                  "description": "expression your u want",
                   "rowId": ".? internet"
                 }, {
-                  "title": "Anonymous",
-                  "description": "",
+                  "title": "❓ ㋛ Anonymous",
+                  "description": "hacker anjir 😱",
                   "rowId": ".? anonymous"
                 }, {
-                  "title": "Nulis & Logo",
-                  "description": "",
+                  "title": "✏ ㋛ Nulis & Logo",
+                  "description": "Make a tulisan",
                   "rowId": ".? nulis"
                 }, {
-                  "title": "Downloader",
-                  "description": "",
+                  "title": "📥 ㋛ Downloader",
+                  "description": "Mengunduh ",
                   "rowId": ".? downloader"
                 }, {
-                  "title": "Tools",
-                  "description": "",
+                  "title": "🛠 ㋛ Tools",
+                  "description": "Reparations",
                   "rowId": ".? tools"
                 }, {
-                  "title": "Fun",
-                  "description": "",
+                  "title": "😋 ㋛ Fun ",
+                  "description": "Bebas ngapain aja",
                   "rowId": ".? fun"
                 }, {
-                  "title": "Database",
-                  "description": "",
+                  "title": "🗂 ㋛ Database",
+                  "description": "Data base bot",
                   "rowId": ".? database"
                 }, {
-                  "title": "Vote & Absen",
-                  "description": "",
+                  "title": "☑ ㋛ vote & Absen",
+                  "description": "isi absen dulu anjir",
                   "rowId": ".? vote"
                 }, {
-                  "title": "Al-Qur\'an",
-                  "description": "",
+                  "title": "😊😇 Al-Qur\'an",
+                  "description": "Mengaji",
                   "rowId": ".? quran"
                 }, {
-                  "title": "Pengubah Suara",
-                  "description": "",
+                  "title": "〰🎵 ㋛ Pengubah Suara",
+                  "description": "Manipulation your voice",
                   "rowId": ".? audio"
                 }, {
-                  "title": "Jadi Bot",
-                  "description": "",
+                  "title": "🗿 ㋛ Jadi Bot",
+                  "description": "Jangan di pake cape gua ",
                   "rowId": ".? jadibot"
                 }, {
-                  "title": "Info",
-                  "description": "",
+                  "title": "ℹℹ ㋛ info",
+                  "description": "information ",
                   "rowId": ".? info"
                 }, {
-                  "title": "Tanpa Kategori",
-                  "description": "",
+                  "title": "⁉ ㋛ Tanpa Kategori",
+                  "description": "serah lu mau ngapain anjir",
                   "rowId": ".? tanpakategori"
                 }, {
-                  "title": "Owner",
-                  "description": "",
+                  "title": "👺 ㋛ Owner",
+                  "description": "Menu mastah",
                   "rowId": ".? owner"
                 }
               ]
