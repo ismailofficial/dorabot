@@ -1,1 +1,1 @@
-woerker: node .
+web: node . --server
